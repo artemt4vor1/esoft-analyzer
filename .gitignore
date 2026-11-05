@@ -4,3 +4,5 @@ __pycache__/
 uploads/
 plots/
 .env
+data.csv
+histogram.png
